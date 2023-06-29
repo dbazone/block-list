@@ -5,10 +5,20 @@
  0.0.0.0 sanji.to
 
  
- # Start Netflix domain
+# Start Netflix domain
  0.0.0.0 netflix.com
  0.0.0.0 nflxvideo.net
  0.0.0.0 netflixstudios.com
  0.0.0.0 netflix.net
- 
- # End Netflix domain
+# End Netflix domain
+
+# Start Steam domain
+ 0.0.0.0 steampowered.com
+ 0.0.0.0 steamcommunity.com
+ 0.0.0.0 steamgames.com
+ 0.0.0.0 steamusercontent.com
+ 0.0.0.0 steamcontent.com
+ 0.0.0.0 steamstatic.com
+ 0.0.0.0 akamaihd.net
+# End Steam domain
+
