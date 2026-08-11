@@ -1,5 +1,7 @@
 # Start Porn
 
  0.0.0.0 xhamster18.desi
+ 0.0.0.0 xvideos.com
+
  
 # blacklist
