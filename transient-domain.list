@@ -3,3 +3,19 @@
 
 0.0.0.0 googlevideo.com
 
+# Instagram start
+
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 api.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 gateway.instagram.com
+0.0.0.0 b.i.instagram.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 edge-chat.instagram.com
+0.0.0.0 ig.me
+0.0.0.0 igsonar.com
+
+# Instagram Ends
