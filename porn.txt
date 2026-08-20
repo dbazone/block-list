@@ -4,5 +4,8 @@
  0.0.0.0 xvideos.com
  0.0.0.0 redtube.net
  0.0.0.0 xhamster.desi
- 
+ 0.0.0.0 xhamster19.com
+ 0.0.0.0 indiansexstories3.com
+ 0.0.0.0 indiansexstories3.com
+
 # blacklist
